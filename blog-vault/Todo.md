@@ -1,0 +1,7 @@
+- [x] Make it so git ONLY syncs things inside `.obsidian/` and how to install, etc
+- [x] Test to see if symlinks work on windows
+- [x] Rename `blog` to `drive` maybe?
+- [ ] Lock folders so they can't accidentally be deleted
+- [ ] Implement `Recent Posts` functionality
+- [ ] Make batch file for Windows to link Google Drive folder
+- [ ] Set up backup -- maybe Restic with Backrest?

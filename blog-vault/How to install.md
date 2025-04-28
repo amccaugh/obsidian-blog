@@ -1,0 +1,13 @@
+- Clone the `obsidian-blog` vault from GitHub -- congrats, you've already done this!
+- Install Google Drive desktop if you haven't already
+- Link the blog files (held on Google Drive) to the obsidian vault
+	- OSX
+		- In the `configuration` folder, run `link-to-google-drive_OSX` and follow the directions
+	- Windows
+		- Open Command Prompt (not terminal!) as administrator
+		- `mklink /d "C:\Users\yourusername\Documents\GitHub\obsidian-blog\blog" "G:\Shared drives\obsidian-blog"`
+	- Linux:
+		- Open the terminal
+		- `ln -s "/Users/yourusername/Library/CloudStorage/GoogleDrive-youremail@email.com/Shared drives/obsidian-blog" /Users/anm16/Documents/GitHub/obsidian-blog/blog`
+- Suggested configuration:
+	- Set the "Sort Order" ![[Pasted image 20250425174224.png]] icon to sort by `Modified time (new to old)`
