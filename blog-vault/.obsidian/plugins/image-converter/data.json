@@ -11,9 +11,14 @@
     {
       "type": "CURRENT",
       "name": "Same folder as current note"
+    },
+    {
+      "name": "Year-Month",
+      "type": "CUSTOM",
+      "customTemplate": "attachments/{YYYY}/{MM}"
     }
   ],
-  "selectedFolderPreset": "Default (Obsidian setting)",
+  "selectedFolderPreset": "Year-Month",
   "filenamePresets": [
     {
       "name": "Keep original name",
@@ -28,7 +33,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -175,7 +180,7 @@
         "name": "Longest Edge 1000px",
         "resizeDimension": "longest-edge",
         "longestEdge": 1000,
-        "resizeScaleMode": "auto",
+        "resizeScaleMode": "reduce",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
         "resizeUnits": "pixels"
