@@ -4,10 +4,5 @@
 	- OSX
 		- Run `link-to-google-drive_OSX` and select the google drive folder with the blog files in it (the folder with `posts/`, `attachments/`, etc)
 	- Windows
-		- Open Command Prompt (not terminal!) as administrator
-		- `mklink /d "C:\Users\yourusername\Documents\GitHub\obsidian-blog\blog" "G:\Shared drives\obsidian-blog"`
-	- Linux:
-		- Open the terminal
-		- `ln -s "/Users/yourusername/Library/CloudStorage/GoogleDrive-youremail@email.com/Shared drives/obsidian-blog" /Users/anm16/Documents/GitHub/obsidian-blog/blog`
-- Suggested configuration:
-	- Set the "Sort Order" ![[Pasted image 20250425174224.png]] icon to sort by `Modified time (new to old)`
+		- Run `link-to-google-drive_Windows-run-as-Admin.bat`
+- Open Obsidian and add `blog-vault/` as a vault
