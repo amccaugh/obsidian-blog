@@ -24,7 +24,7 @@ https://github.com/Ambi93/Obsidian-Sync/blob/main/Comprehensive%20User%20Guide%2
 Here's the applescript commands for OSX to make a nice
 ```applescript
 -- Ask user to choose the source directory (target of the symlink)
-set sourceFolder to choose folder with prompt "Please select the qittlab-blog Google Drive directory"
+set sourceFolder to choose folder with prompt "Please select the Google Drive directory with the blog files in it (e.g. 'attachments', 'posts', etc folders)"
 set sourcePath to POSIX path of sourceFolder
 
 -- Get the script's own file path
