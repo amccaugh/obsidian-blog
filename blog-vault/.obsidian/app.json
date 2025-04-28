@@ -4,5 +4,5 @@
   "promptDelete": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "blog-files/attachments"
+  "attachmentFolderPath": "attachments"
 }

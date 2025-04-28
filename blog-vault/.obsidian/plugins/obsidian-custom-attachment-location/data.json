@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "blog-files/attachments/${date:YYYY}/${date:MM}",
+  "attachmentFolderPath": "attachments/${date:YYYY}/${date:MM}",
   "attachmentRenameMode": "None",
   "customTokensStr": "",
   "duplicateNameSeparator": " ",
