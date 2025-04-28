@@ -2,7 +2,7 @@
 - Install Google Drive desktop if you haven't already
 - Link the blog files (held on Google Drive) to the obsidian vault
 	- OSX
-		- In the `configuration` folder, run `link-to-google-drive_OSX` and follow the directions
+		- Run `link-to-google-drive_OSX` and select the google drive folder with the blog files in it (the folder with `posts/`, `attachments/`, etc)
 	- Windows
 		- Open Command Prompt (not terminal!) as administrator
 		- `mklink /d "C:\Users\yourusername\Documents\GitHub\obsidian-blog\blog" "G:\Shared drives\obsidian-blog"`
