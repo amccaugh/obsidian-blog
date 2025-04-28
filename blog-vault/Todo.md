@@ -3,5 +3,5 @@
 - [x] Rename `blog` to `drive` maybe?
 - [x] Make batch file for Windows to link Google Drive folder
 - [x] Lock folders so they can't accidentally be deleted
-- [ ] Implement `Recent Posts` functionality (use DataView)
+- [x] Implement `Recent Posts` functionality (use DataView)
 - [ ] Set up backup -- maybe Restic with Backrest + Backblaze B2?
