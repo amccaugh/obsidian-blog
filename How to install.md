@@ -4,6 +4,6 @@
 	- OSX
 		- Run `link-to-google-drive_OSX` and select the google drive folder with the blog files in it (the folder with `posts/`, `attachments/`, etc)
 	- Windows
-		- Run `link-to-google-drive_Windows-run-as-Admin.bat`
+		- Run `link-to-google-drive_Windows-run-as-Admin.bat` and select the google drive folder with the blog files in it (the folder with `posts/`, `attachments/`, etc)
 - Open Obsidian and add the blog-vault folder from the Git repo (`obsidian-blog/blog-vault/`) as a vault
     - Note: Do NOT open the Google Drive with obsidian!
