@@ -1,4 +1,4 @@
-- Clone the `obsidian-blog` vault from GitHub -- congrats, you've already done this!
+- Clone the `obsidian-blog` vault from GitHub at https://github.com/amccaugh/obsidian-blog
 - Install Google Drive desktop if you haven't already
 - Link the blog files (held on Google Drive) to the obsidian vault
 	- OSX
