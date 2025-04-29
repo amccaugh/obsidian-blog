@@ -1,6 +1,6 @@
-- Clone the `obsidian-blog` vault from GitHub at https://github.com/amccaugh/obsidian-blog
-- Install Google Drive desktop if you haven't already
-- Link the blog files (held on Google Drive) to the obsidian vault
+- Install Google Drive desktop if you haven't already: https://workspace.google.com/products/drive/#download
+- Clone the `obsidian-blog` git repo from GitHub at https://github.com/amccaugh/obsidian-blog
+- Use the provided scripts inside the git repo the file links:
 	- OSX
 		- Run `link-to-google-drive_OSX` and select the google drive folder with the blog files in it (the folder with `posts/`, `attachments/`, etc)
 	- Windows
