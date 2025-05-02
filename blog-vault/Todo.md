@@ -5,3 +5,6 @@
 - [x] Lock folders so they can't accidentally be deleted
 - [x] Implement `Recent Posts` functionality (use DataView)
 - [ ] Set up backup -- maybe Restic with Backrest + Backblaze B2?
+- [ ] Set up backup -- maybe Restic with Backrest + Backblaze B2?
+- [ ] Show author/frontmatter
+- [x] Change front page 

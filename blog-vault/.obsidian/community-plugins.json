@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-trash-explorer",
   "image-converter",
-  "dataview"
+  "dataview",
+  "obsidian-custom-attachment-location"
 ]
