@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "posts",
+      "folder": "drafts",
       "template": "config/templates/blog-post-template.md"
     }
   ],

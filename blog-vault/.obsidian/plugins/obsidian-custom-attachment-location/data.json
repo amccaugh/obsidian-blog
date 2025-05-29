@@ -8,6 +8,7 @@
   "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmssSSS}",
   "includePaths": [],
   "jpegQuality": 0.8,
+  "markdownUrlFormat": "",
   "shouldConvertPastedImagesToJpeg": false,
   "shouldDeleteOrphanAttachments": false,
   "shouldRenameAttachmentFiles": false,
