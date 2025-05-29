@@ -1,1 +1,1 @@
-Move your posts into the `posts/` directory if you want them to be correctly synced and show up on the web site -- you can still eidt your posts freely after you move them
+Move your posts into the `posts/` directory if you want them to be correctly synced and show up on the web site -- you can still edit your posts freely after you move them
