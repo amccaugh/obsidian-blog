@@ -8,10 +8,28 @@ First, select this with the             Second, open this as
 link-to-google-drive script             a vault in Obsidian
 ```
 
-- Install Google Drive desktop if you haven't already: https://workspace.google.com/products/drive/#download
-- Clone the `obsidian-blog` git repo from GitHub at https://github.com/amccaugh/obsidian-blog
-- Open up the linking script in the repo:
-	- OSX:  Run `link-to-google-drive_OSX`
-	- Windows:  Right-click `link-to-google-drive_Windows-run-as-Admin.bat` and select "Run as administrator".
-- In that script, select the GOOGLE DRIVE folder (i.e. `G:\Google Drive`) with the files in it (the folder with `posts/`, `attachments/`, etc)
-- Once that's done, you're all set.  You should be able to now use Obsidian and add the `obsidian-blog/blog-vault/` as a vault.  Note: Do NOT open the Google Drive with obsidian!
+- ## Steps
+
+1. **Install Google Drive for Desktop** (if you haven't already):  
+   [https://workspace.google.com/products/drive/#download](https://workspace.google.com/products/drive/#download)
+
+2. **Clone the GitHub repository**:  
+   [https://github.com/amccaugh/obsidian-blog](https://github.com/amccaugh/obsidian-blog)
+
+3. **Run the linking script to connect the two folders**:
+   - **macOS**: Run the script `link-to-google-drive_OSX`
+   - **Windows**: Right-click `link-to-google-drive_Windows-run-as-Admin.bat` and choose **"Run as administrator"**
+   - When prompted, navigate to your **Google Drive folder** (e.g., `G:\Google Drive`) and select the folder named `qittlab-blog` (this should contain `posts/`, `attachments/`, etc.)
+
+4. **Open the Obsidian vault**:
+   - In Obsidian, go to:  
+     `Manage vaults` → `Open folder as vault`
+   - Navigate to:  
+     `obsidian-blog/blog-vault/` (from the repo you cloned)
+   - Select it to open as your blog vault.
+
+---
+
+## Important Note
+**Do NOT open the Google Drive folder directly with Obsidian!**  
+Always use the `blog-vault/` folder inside the git repository as your Obsidian vault.
