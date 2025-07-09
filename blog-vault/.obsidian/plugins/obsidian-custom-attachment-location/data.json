@@ -5,12 +5,14 @@
   "duplicateNameSeparator": " ",
   "emptyAttachmentFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [],
+  "excludePathsFromAttachmentCollecting": [],
   "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmssSSS}",
   "includePaths": [],
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
   "shouldConvertPastedImagesToJpeg": false,
   "shouldDeleteOrphanAttachments": false,
+  "shouldDuplicateCollectedAttachments": false,
   "shouldRenameAttachmentFiles": false,
   "shouldRenameAttachmentFolder": false,
   "shouldRenameAttachmentsToLowerCase": false,
@@ -20,5 +22,5 @@
   "treatAsAttachmentExtensions": [
     ".excalidraw.md"
   ],
-  "warningVersion": "7.5.0"
+  "warningVersion": "8.2.2"
 }
