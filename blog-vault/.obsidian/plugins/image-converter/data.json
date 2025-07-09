@@ -153,7 +153,7 @@
         "name": "Width 500px",
         "resizeDimension": "width",
         "width": 500,
-        "resizeScaleMode": "auto",
+        "resizeScaleMode": "reduce",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
         "resizeUnits": "pixels"
@@ -211,7 +211,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Longest Edge 1000px"
+    "selectedResizePreset": "Width 500px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -308,6 +308,7 @@
   "imageAlignment_cacheLocation": "plugin",
   "isDragResizeEnabled": true,
   "isScrollResizeEnabled": true,
+  "isDragAspectRatioLocked": false,
   "isResizeInReadingModeEnabled": false,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",

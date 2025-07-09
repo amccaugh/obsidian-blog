@@ -1,9 +1,10 @@
 {
   "useCache": true,
-  "hideExcluded": false,
+  "hideExcluded": true,
   "recencyBoost": "3",
   "downrankedFoldersFilters": [
-    "attachments"
+    "attachments",
+    "config"
   ],
   "ignoreDiacritics": true,
   "ignoreArabicDiacritics": false,
@@ -18,7 +19,7 @@
   "openInNewPane": false,
   "vimLikeNavigationShortcut": false,
   "ribbonIcon": true,
-  "showExcerpt": true,
+  "showExcerpt": false,
   "maxEmbeds": 5,
   "renderLineReturnInExcerpts": true,
   "showCreateButton": false,
@@ -33,7 +34,20 @@
   "weightH2": 5,
   "weightH3": 4,
   "weightUnmarkedTags": 2,
-  "weightCustomProperties": [],
+  "weightCustomProperties": [
+    {
+      "name": "",
+      "weight": 1
+    },
+    {
+      "name": "",
+      "weight": 1
+    },
+    {
+      "name": "",
+      "weight": 1
+    }
+  ],
   "httpApiEnabled": false,
   "httpApiPort": "51361",
   "httpApiNotice": true,

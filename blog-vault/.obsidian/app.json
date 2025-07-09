@@ -6,5 +6,8 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachments",
   "focusNewTab": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "attachments/"
+  ]
 }
